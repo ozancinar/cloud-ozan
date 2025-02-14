@@ -5,6 +5,11 @@
   "screenshot": "fairdomhub.png",
   "url": "https://fairdomhub.org/",
   "doi": "10.1093/nar/gkw1032",
+
+  "instance": {
+    "type": "external"
+  },
+  
   "provider": {
     "contact": {
       "name": "FAIRDOM",

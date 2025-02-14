@@ -5,8 +5,8 @@
   "screenshot": "qsprpred.png",
   "url": "https://github.com/CDDLeiden/QSPRpred",
   "instance": {
-    "type": "VHP4Safety",
-    "vhp-platform": "External",
+    "type": "internal",
+    "vhp-platform": "Development",
     "license": "MIT"
   },
   "provider": {
