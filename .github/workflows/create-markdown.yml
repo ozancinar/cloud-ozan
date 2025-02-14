@@ -33,7 +33,7 @@ jobs:
         run: groovy createSitemap.groovy > docs/sitemap.xml
 
       - name: Generating markdown files
-        run: cd /misc/workflow_in_r/ ; Rscript workflow_rscript.r
+        run: Rscript misc/workflow_in_r/workflow_rscript.r
 
       # Not to be done with groovy nut with R in the workflow R script. 
       # - name: Generate tools.tsv
