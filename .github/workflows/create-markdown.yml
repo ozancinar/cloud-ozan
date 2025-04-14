@@ -32,9 +32,8 @@ jobs:
       - name: Generate sitemap.xml
         run: cd misc/workflow_in_r/ ; Rscript create_sitemap.r
 
-      - name: Generate tools.tsv
+      - name: Generate tools.tsv, catalog.md and index.md
         run: cd misc/workflow_in_r/ ; Rscript workflow_rscript.r
-
 
       # - name: Generate sitemap.xml
       #   run: groovy createSitemap.groovy > docs/sitemap.xml
