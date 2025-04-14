@@ -23,8 +23,8 @@ jobs:
       - name: Update the list of available libraries
         run: sudo apt update
 
-      # - name: Install groovy
-      #   run: sudo apt install groovy
+      - name: Install groovy
+        run: sudo apt install groovy
 
       - name: Install R and the rjson package
         run: sudo apt install r-base; sudo apt install r-cran-rjson
@@ -49,8 +49,8 @@ jobs:
       # - name: Generate catalog
       #   run: cd docs ; groovy createCatalog.groovy > catalog.md ; groovy createIndex.groovy > index.md
 
-      # - name: Generate persona pages
-      #   run: cd docs; groovy createPersona1.groovy > persona1.md ; groovy createPersona2.groovy > persona2.md ; groovy createPersona3.groovy > persona3.md
+      - name: Generate persona pages
+        run: cd misc; groovy createPersona1.groovy > docs/persona1.md ; groovy createPersona2.groovy > docs/persona2.md ; groovy createPersona3.groovy > docs/persona3.md
 
       # - name: Generate service pages
       #   run: cd docs/service ; groovy createMarkdown.groovy *.json
