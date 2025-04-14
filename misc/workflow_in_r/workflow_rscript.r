@@ -68,7 +68,7 @@ write.table(tools, file="../../docs/tools.tsv", quote=FALSE, sep="\t",
 
 # Specifying the target file name relative to the working directory for easiness
 # in this script and testing purposes.
-target <- "../../docs/catalog_test.md"
+target <- "../../docs/catalog.md"
 
 # Removing the current catalog.md file to allow any modifications. 
 if(file.exists(target)) system(paste0("rm ", target))
@@ -113,7 +113,7 @@ system(paste0("cat catalog_outro_text >> ", target))
 
 # Specifying the target file name relative to the working directory for easiness
 # in this script and testing purposes.
-target <- "../../docs/index_test.md"
+target <- "../../docs/index.md"
 
 # Removing the current index.md file to allow any modifications. 
 if(file.exists(target)) system(paste0("rm ", target))
