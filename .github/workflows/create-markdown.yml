@@ -50,7 +50,7 @@ jobs:
       #   run: cd docs ; groovy createCatalog.groovy > catalog.md ; groovy createIndex.groovy > index.md
 
       - name: Generate persona pages
-        run: cd misc; groovy createPersona1.groovy > docs/persona1.md ; groovy createPersona2.groovy > docs/persona2.md ; groovy createPersona3.groovy > docs/persona3.md
+        run: cd misc; groovy createPersona1.groovy > ../docs/persona1.md ; groovy createPersona2.groovy > ../docs/persona2.md ; groovy createPersona3.groovy > ../docs/persona3.md
 
       # - name: Generate service pages
       #   run: cd docs/service ; groovy createMarkdown.groovy *.json
