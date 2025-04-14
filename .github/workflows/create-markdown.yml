@@ -29,11 +29,11 @@ jobs:
       - name: Install R and the rjson package
         run: sudo apt install r-base; sudo apt install r-cran-rjson
 
-      - name: Generate sitemap.xml
-        run: groovy createSitemap.groovy > docs/sitemap.xml
+      # - name: Generate sitemap.xml
+      #   run: groovy createSitemap.groovy > docs/sitemap.xml
 
-      - name: Generating markdown files
-        run: Rscript misc/workflow_in_r/workflow_rscript.r
+      # - name: Generating markdown files
+      #   run: Rscript misc/workflow_in_r/workflow_rscript.r
 
       # Not to be done with groovy nut with R in the workflow R script. 
       # - name: Generate tools.tsv
