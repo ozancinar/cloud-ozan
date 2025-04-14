@@ -29,6 +29,9 @@ jobs:
       - name: Install R and the rjson package
         run: sudo apt install r-base; sudo apt install r-cran-rjson
 
+      - name: Generate sitemap.xml
+        run: cd misc/workflow_in_r/ ; Rscript create_sitemap.r
+
       # - name: Generate sitemap.xml
       #   run: groovy createSitemap.groovy > docs/sitemap.xml
 
