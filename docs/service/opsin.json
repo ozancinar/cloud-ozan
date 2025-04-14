@@ -5,11 +5,6 @@
   "screenshot": "opsin.png", 
   "url": "https://opsin.ch.cam.ac.uk/",
   "doi": "10.1021/ci100384d",
-  
-  "instance": {
-    "type": "external"
-  },
-
   "provider": {
     "contact": {
       "name": "Daniel Lowe"

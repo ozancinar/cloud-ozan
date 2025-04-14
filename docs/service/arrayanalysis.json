@@ -3,9 +3,6 @@
   "service": "ArrayAnalysis",
   "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
   "doi": "10.1093/nar/gkt293",
-  "instance": {
-    "type": "external"
-  },
   "provider": {
     "contact": {
       "name": "Lars Eijssen"

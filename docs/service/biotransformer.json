@@ -5,11 +5,6 @@
   "screenshot": "biotransformer.png",
   "url": "https://biotransformer.ca/",
   "doi": "10.1186/s13321-018-0324-5",
-  
-  "instance": {
-    "type": "external"
-  },
-
   "access": {
     "API": "",
     "login": "no"

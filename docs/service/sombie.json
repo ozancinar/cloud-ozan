@@ -5,7 +5,7 @@
   "url": "https://sombie.cloud.vhp4safety.nl/",
   "doi": "",
   "instance": {
-    "type": "internal",
+    "type": "VHP4Safety",
     "vhp-platform": "Development",
     "url": "https://sombie.cloud.vhp4safety.nl/",
     "TRL": "Integrated application"
