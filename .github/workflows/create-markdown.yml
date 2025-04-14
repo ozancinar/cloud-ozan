@@ -20,8 +20,8 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Update Linux libraries
-        run: sudo apt update; sudo apt upgrade
+      - name: Update the list of available libraries
+        run: sudo apt update
 
       - name: Install groovy
         run: sudo apt install groovy
