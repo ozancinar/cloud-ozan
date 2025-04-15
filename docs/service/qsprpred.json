@@ -15,12 +15,12 @@
     "contact": {
       "name": "Linde Schoenmaker",
       "email": "l.schoenmaker@lacdr.leidenuniv.nl"
-    }
+    },
     "name": "Leiden University"
   },
   "access": {
     "API": "",
-    "login": "No"
+    "login": "No",
     "packages": {
       "Python": "yes"
     }
