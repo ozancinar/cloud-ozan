@@ -1,7 +1,7 @@
 {
   "id": "popgen",
   "service": "PopGen",
-  "description": "An online service to generate a virtual human population.",
+  "description": "An online service to generate a virtual human population. --Test text.",
   "screenshot": "",
   "url": "http://xnet.hsl.gov.uk/Popgen/",
   "doi": "10.1007/s10928-007-9053-5",
