@@ -13,7 +13,7 @@ if (file.exists("../../docs/sitemap.xml")) {
 sitemap_intro_fun <- function() {
   # Function to add the chunk at the top of the file. 
   # Note that it starts by adding the date at the top of the file in a comment.
-  system(paste0('echo \"<!-- Sitemap created on ', Sys.Date(), '. -->\" >> ../../docs/sitemap.xml'))
+  system(paste0('echo \"<!-- Sitemap created on ', Sys.time(), '. -->\" >> ../../docs/sitemap.xml'))
   
   system(paste0('echo \"<?xml version=\\"1.0\\" encoding=\\"UTF-8\\"?>\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"<urlset\" >> ../../docs/sitemap.xml'))
