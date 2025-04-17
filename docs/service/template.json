@@ -135,7 +135,7 @@
     "NAM-stage-5": ""
   },
 
-  "_ins_VHP-persona": "Whether the service is used by one or more of the VHP persona's. Answer either 'true' or 'false'.",
+  "_ins_VHP-persona": "Whether the service is used by one or more of the VHP persona's. Answer as 'true' or 'false' (e.g., persona-1: 'true' to attribute a service to a persona).",
   "VHP-persona": {
     "persona-1": "",
     "persona-2": "",

@@ -302,9 +302,9 @@ for (i in 1:length(service_metadata)) {
   # if (!is.null(service_metadata[[i]][["access"]][["API"]])) {
   #   system(paste0("echo \"* API Type: ", service_metadata[[i]][["access"]][["API"]], "\" >> ", target))
   # } else {
-    system(paste0("echo \"* Categories: To be added\" >> ", target))
+    # system(paste0("echo \"* Categories: To be added\" >> ", target))
   # }
-  system(paste0("echo \"\" >> ", target))
+  # system(paste0("echo \"\" >> ", target))
   
   # Categories
   # if (!is.null(service_metadata[[i]][["access"]][["API"]])) {
