@@ -57,8 +57,6 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

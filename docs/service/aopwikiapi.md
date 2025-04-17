@@ -57,8 +57,6 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

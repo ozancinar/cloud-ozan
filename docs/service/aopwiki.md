@@ -57,8 +57,6 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

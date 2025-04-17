@@ -57,8 +57,6 @@ A framework to map identifiers between various biological databases and related 
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

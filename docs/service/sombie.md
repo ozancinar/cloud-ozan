@@ -57,8 +57,6 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

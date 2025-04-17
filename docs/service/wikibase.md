@@ -57,8 +57,6 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

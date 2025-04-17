@@ -57,8 +57,6 @@ A model to predict water–octanol distribution coefficient (logD) for chemical 
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

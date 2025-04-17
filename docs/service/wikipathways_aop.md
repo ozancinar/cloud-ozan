@@ -57,8 +57,6 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

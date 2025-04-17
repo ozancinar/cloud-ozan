@@ -57,8 +57,6 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

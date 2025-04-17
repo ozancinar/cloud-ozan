@@ -57,8 +57,6 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

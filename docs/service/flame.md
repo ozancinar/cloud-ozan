@@ -57,8 +57,6 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added

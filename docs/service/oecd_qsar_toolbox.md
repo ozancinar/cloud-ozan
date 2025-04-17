@@ -57,8 +57,6 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * Categories: To be added
 
-* Categories: To be added
-
 * Targeted Users: To be added
 
 * Relevant VHP4Safety Use Case: To be added
