@@ -1,15 +1,15 @@
 name: Create Markdown
 
-# on:
-#   workflow_dispatch:
-#   push:
-#     paths:
-#       - "docs/service/*.json"
-#   pull_request:
-#     branches:
-#       - main
-#     paths:
-#       - "docs/service/*.json"
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "docs/service/*.json"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "docs/service/*.json"
 
 jobs:
   webpage:
