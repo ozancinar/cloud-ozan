@@ -84,10 +84,6 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 A REST API for AOP-Wiki content to make SPARQL queries. [[more information](service/aopwikiapi.md)]
 
-#### AOP-Wiki API
-
-A REST API for AOP-Wiki content to make SPARQL queries. [[more information](service/aopwikiapi.md)]
-
 #### CellDesigner
 
 A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]
