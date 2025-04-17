@@ -1,7 +1,7 @@
 
 ################################################################################
 # This is an R script to generate the material based on the service .json files
-# in the /docs/service directory. 
+# in the /docs/service/ directory. 
 
 
 ################################################################################
