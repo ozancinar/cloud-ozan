@@ -1,4 +1,4 @@
-name: Generate material
+name: Generate material (V2 -- R version)
 
 on:
   workflow_dispatch:
@@ -35,24 +35,8 @@ jobs:
       - name: Generate tools.tsv, catalog.md and index.md
         run: cd misc/workflow_in_r/ ; Rscript workflow_rscript.r
 
-      # - name: Generate sitemap.xml
-      #   run: groovy createSitemap.groovy > docs/sitemap.xml
-
-      # - name: Generating markdown files
-      #   run: Rscript misc/workflow_in_r/workflow_rscript.r
-
-      # Not to be done with groovy nut with R in the workflow R script. 
-      # - name: Generate tools.tsv
-      #   run: groovy createToolsTSV.groovy > docs/tools.tsv
-
-      # - name: Generate catalog
-      #   run: cd docs ; groovy createCatalog.groovy > catalog.md ; groovy createIndex.groovy > index.md
-
       - name: Generate persona pages
         run: cd docs ; groovy createPersona1.groovy > persona1.md ; groovy createPersona2.groovy > persona2.md ; groovy createPersona3.groovy > persona3.md
-
-      # - name: Generate service pages
-      #   run: cd docs/service ; groovy createMarkdown.groovy *.json
 
       - name: Commit report
         run: |
